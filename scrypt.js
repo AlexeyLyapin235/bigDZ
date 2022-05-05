@@ -14,20 +14,8 @@ let category = [];
 })
 render1(category)
  
- }/*
-function createURL(arr){
-    const fragment = document.createDocumentFragment();
-    const blocks = document.querySelector('.blocks');
-    for(let key in arr){
-        if(key.title == 'Смартфоны'){
-            const url = document.createElement('a')
-            url.href = 'index-smartphone.html'
-            fragment.appendChild(url)
-        }
-    }
-    blocks.appendChild(fragment)
-}
-*/
+ }
+
 
 
 
